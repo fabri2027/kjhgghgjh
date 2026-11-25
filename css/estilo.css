@@ -1,0 +1,62 @@
+body{
+    background-color: crimson;
+}
+div{
+    background-color: rgb(222, 29, 29);
+    padding: 5px;
+
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
+h3{ 
+    text-align: center;
+    width: 30%;
+    background-color: aqua;
+}
+p{
+    background-color: rgb(114, 237, 89);
+}
+a{
+    background-color: rgb(146, 232, 59);
+    color: black;
+}
+.principal{
+    display: flex;
+}
+h4{
+    text-align: center;
+    background-color: rgb(54, 216, 249);
+    color: black;
+}
+.caja2{
+    width: 70%;
+}
+input{
+    background-color: rgb(122, 234, 2);
+    color: black;
+    height: 50px;
+    width: 200px;
+    
+}
+table{
+    background-color: rgb(33, 222, 46);
+}
+
+.lista{
+    display: flex;
+
+}
+.caja3{
+    width: 50%;
+}
+ol{
+    background-color: rgb(66, 210, 13);
+}
+.con{
+    background-color: rgb(114, 237, 89);
+}
